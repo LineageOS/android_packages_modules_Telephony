@@ -47,6 +47,7 @@ java_library {
         "telecom-proto-enums",
         "modules-utils-build",
         "modules-utils-infra",
+        "org.lineageos.services.telecom.stubs",
     ],
     static_libs: [
         "android.app.privatecompute.flags-aconfig-java-export",
